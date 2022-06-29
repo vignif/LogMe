@@ -2,7 +2,7 @@
 Minimal example of the python library 'logging'
 
 ![image](LogMe.png)
-## Use a config file to setup your loggers
+## Description
 In the file `MyLogger.py` you can find two types of loggers defined.
 1. `LoggerFromConfig` is loading the conf stored in `loggers.conf` and set up a singleton logger with it
 2. `Logger` contains the configuration within its object
