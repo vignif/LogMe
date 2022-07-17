@@ -1,5 +1,5 @@
 # LogMe
-Minimal example of the python library 'logging'
+Minimal example of the python library [logging](https://docs.python.org/3/library/logging.html)
 
 ![image](LogMe.png)
 ## Description
